@@ -2,7 +2,7 @@
 
 This is a simple Vanilla Javascript Frontend CRUD that uses Object Orientend Programming using Ecmascript 6+ Features.
 
-![](docs/screenshot.png)
+![](docs/Capturadepantalla.png)
 
 # Installation
 
